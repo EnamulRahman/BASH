@@ -12,4 +12,16 @@ Set +x to stop it
 set -eux
 use all 3 at once
 
+Set –o nounset = set-u uninitialized variables 
+
+ 
+
+Set –o errexit = -e exit if any invoked command fails nonexistent command 
+
+ 
+
+Set –o pipefail = causes pipeline  to return the exit 
+status of the last command in the pipeline that exited
+with a non-zero status. 
+
 
