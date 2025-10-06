@@ -1,0 +1,15 @@
+set -e
+Script stops at error
+
+set -u
+Forces bash script to stop 
+Stopped at undefined variable 
+
+set -x
+Prints each command before it is executed 
+Set +x to stop it 
+
+set -eux
+use all 3 at once
+
+
