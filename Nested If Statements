@@ -1,0 +1,37 @@
+Age=18 
+
+Grade=85 
+
+ 
+
+If [$age –gt 18] 
+
+ 
+
+Echo "you are eligible" 
+
+If [$grade –ge 80 ] ; then  
+
+Echo "you are eligble" 
+
+Else 
+
+Echo "your grade not high enough" 
+
+fi 
+
+ 
+
+ 
+
+Else 
+
+Echo "you are too young" 
+
+ 
+
+Fi 
+
+ 
+
+ 
